@@ -6,6 +6,7 @@ public class mainApp1 {
         int b = 2;
         int n = 11;
         System.out.println("Program ..Starting...");
+        System.out.println("testing");
         System.out.println("1 + 1 = "+2);
         System.out.println("2 + 2 = "+4);
         System.out.println(b+" to power "+n+" = "+ myLibrary.Power(b,n));
